@@ -18,7 +18,7 @@ CSS3 – styling and design
 
 🚀 How to View
 
-You can view the live version here: [Add your deployed link here]
+You can view the live version here: [link]
 
 Or clone this repository and open index.html in your browser:
 
